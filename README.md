@@ -44,6 +44,7 @@ Linux Mint	Windows users transitioning	APT	Familiar interface, multimedia suppor
 openSUSE	Versatile users (desktop and server)	Zypper	Strong administration tools, flexible release options
 
 • Section 3: Basic Linux Commands:
+
 1. ls command
 The ls command lists the content of a folder, including files and directories. Here’s the syntax:
 2. pwd command
