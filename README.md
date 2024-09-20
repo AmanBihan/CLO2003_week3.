@@ -46,34 +46,24 @@ openSUSE	Versatile users (desktop and server)	Zypper	Strong administration tools
 • Section 3: Basic Linux Commands:
 
 1. ls command
-2. 
 The ls command lists the content of a folder, including files and directories. Here’s the syntax:
 3. pwd command
-4. 
 To check the full path of your current working directory, use the pwd command. Its syntax is as follows:
 5. cd command
-6. 
 Use cd to navigate between directories in your Linux VPS. It doesn’t have any option, and the syntax is simple:
 7. mkdir command
-8. 
 The mkdir command lets you create one or multiple directories. The syntax looks like this:
 9. rmdir command
-10. 
 Run rmdir to delete empty directories in your Linux system. The command syntax looks like this:
 11. rm command
-12. 
 The rm command deletes files from a directory. You must have the write permission for the folder or use sudo. Here’s the syntax:
-13. cp command
-14. 
+13. cp command 
 Use the cp command to copy files from your current directory to another folder. The syntax looks like this:
 15. mv command
-16. 
 The main usage of the mv command is to move a file or folder to another location. Here’s the syntax:
 17. touch command
-18. 
 Run the touch command to create a new empty file in a specific directory. The syntax is as follows.
 19. file command
-20. 
 The file command checks a file type, such as TXT, PDF, or other. The syntax is as follows:
 
 • Conclusion:
