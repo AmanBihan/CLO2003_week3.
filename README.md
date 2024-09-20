@@ -16,13 +16,21 @@ Fedora is a cutting-edge Linux distribution sponsored by Red Hat, known for its 
 4. CentOS
 CentOS is a fre­e operating system. It come­s from the code of Red Hat Ente­rprise Linux. CentOS is very good for se­rvers. People like­ it because it works well. It doe­s not break or stop easily. The community he­lps make CentOS bette­r. Red Hat Enterprise Linux costs mone­y. But CentOS is free to use­. Many people choose Ce­ntOS for servers. They know it will ke­ep running without issues.
 • Describe the differences between various distributions.
+
 Distribution	Audience	Package Manager	Strengths
+
 Ubuntu	Beginners	APT	User-friendly, extensive support
+
 Debian	Stability-focused users	APT	Highly stable, ideal for servers
+
 Fedora	Developers	DNF	Cutting-edge features, fast updates
+
 Arch Linux	Advanced users	Pacman	Minimalist, highly customizable, rolling release
+
 CentOS	Enterprises	YUM/DNF	Stability, security, based on RHEL
+
 Linux Mint	Windows users transitioning	APT	Familiar interface, multimedia support
+
 openSUSE	Versatile users (desktop and server)	Zypper	Strong administration tools, flexible release options
 
 • Section 3: Basic Linux Commands:
@@ -46,5 +54,7 @@ The main usage of the mv command is to move a file or folder to another location
 Run the touch command to create a new empty file in a specific directory. The syntax is as follows.
 10. file command
 The file command checks a file type, such as TXT, PDF, or other. The syntax is as follows:
+
 • Conclusion:
+
 The Conclusion highlights the rich history of Linux, the importance of its diverse distributions, and essential commands that are crucial for effective use. Learning Linux is a valuable skill in today’s technology-driven world, opening doors to numerous opportunities in programming, system administration, and beyond.
